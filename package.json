@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/mmcalistair/logger/issues"
   },
-  "homepage": "https://github.com/mmcalistair/logger#readme"
+  "homepage": "https://github.com/mmcalistair/logger#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "mongodb": "^2.1.18"
+  }
 }
